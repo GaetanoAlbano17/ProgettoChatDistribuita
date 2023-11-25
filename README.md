@@ -1,5 +1,5 @@
 # ProgettoChatDistribuita
-Progetto per l'esame di Architetture dei Sistemi distribuiti
+Progetto per l'esame di Architetture dei Sistemi distribuiti 
 
 # Lo sviluppo di un sistema di chat distribuito utilizzando un'infrastruttura peer-to-peer (P2P) per inoltrare i messaggi
 Lo scopo di questa documentazione è fornire una panoramica completa del progetto del sistema di chat distribuito P2P (peer-to-peer). Il documento definisce gli obiettivi del progetto, le specifiche per
